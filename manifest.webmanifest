@@ -1,15 +1,8 @@
 {
-    "background_color": "#181A20",
-    "description": "Mehdi RaTo Information.",
-    "display": "fullscreen",
-    "icons": [
-        {
-            "src": "avatar.jpg",
-            "sizes": "640x640",
-            "type": "image/jpg"
-        }
-    ],
-    "name": "RaTo",
+    "name": "ratom.ir",
     "short_name": "RaTo",
-    "start_url": "/ratom.ir/index.htm"
+    "theme_color": "#FFDE72",
+    "background_color": "#181A20",
+    "display": "fullScreen",
+    "start_url": "https://ratom.ir"
 }
