@@ -11,5 +11,5 @@
             "type": "image/jpeg"
         }
     ],
-    "start_url": "/index.htm"
+    "start_url": "./index.htm"
 }
